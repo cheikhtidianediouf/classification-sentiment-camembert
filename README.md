@@ -8,9 +8,6 @@ Pipeline de Machine Learning de bout en bout pour la classification de sentiment
 1. [Aperçu du projet](#-aperçu-du-projet)
 2. [Architecture technique](#-architecture-technique)
 3. [Structure du projet](#-structure-du-projet)
-4. [Jeu de données](#-jeu-de-données)
-5. [Installation et Lancement](#-installation-et-lancement)
-6. [Utilisation de l'API](#-utilisation-de-lapi)
 
 ---
 
