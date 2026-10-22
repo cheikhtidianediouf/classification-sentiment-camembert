@@ -1,0 +1,12 @@
+# Environnement virtuel
+envtext/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dossiers de résultats d'entraînement temporaires
+resultats_prod/
+.ipynb_checkpoints/
+modele_sentiment_camembert_prod/*.safetensors

@@ -1,0 +1,1 @@
+modele_sentiment_camembert_prod/*.safetensors filter=lfs diff=lfs merge=lfs -text
